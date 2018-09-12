@@ -12,6 +12,7 @@
 
     <h1>Hello World</h1>
 
+    <h2>Fireworks</h2>
     <img src='images/fireworks.jpg'>
     
 </body>
